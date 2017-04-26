@@ -54,7 +54,7 @@ public class NImg {
         }
         return -1;
     }
-
+    //格式化缓存大小
     public static String getImgCacheFormatSize(){
         return NString.ByteToUnitString(getImgCacheSize());
     }
