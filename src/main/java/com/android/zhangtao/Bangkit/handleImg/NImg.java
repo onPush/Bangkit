@@ -83,7 +83,7 @@ public class NImg {
 //            }
 //        }
 
-    //??????????
+    //???????
 //        return imageInfo;
 //    }
 //    public static void setNineGridView(Context context, NineGridView contentImg, FeedHome.FeedHomeT.Feed feed){
